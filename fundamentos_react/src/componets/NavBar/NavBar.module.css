@@ -1,0 +1,21 @@
+.navContainer{
+  width: 100vw;
+  background-color: #222831;
+}
+
+.nav{
+  padding: 10px 20px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.logo{
+  border-radius: 10px;
+  height: 25px;
+}
+
+.navLinks {
+  display: flex;
+  gap: 20px;
+}
